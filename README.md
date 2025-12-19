@@ -1,5 +1,7 @@
 # Optimization Toolkit for Unity
 
+![Animation](https://github.com/user-attachments/assets/aea0f312-416b-4da8-ab6f-2a2b7f12a037)
+
 Optimization Toolkit is a modular Unity Editor toolkit that groups more than 20
 custom editor tools into a single, centralized hub.
 
