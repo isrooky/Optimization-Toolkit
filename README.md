@@ -131,3 +131,6 @@ If FFmpeg is not present, related tools will be disabled or unavailable.
 MIT License  
 Free to use, modify, and integrate in both commercial and non-commercial projects.
 
+## About
+This toolkit is part of my Unity technical portfolio:
+https://github.com/isrooky/Israel-Campo-Portfolio
